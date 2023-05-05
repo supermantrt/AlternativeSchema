@@ -1,0 +1,5 @@
+ITEM.name = "GM Base"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = "A GM for not having?."
+ITEM.category = "GM"
+ITEM.GM = "none"

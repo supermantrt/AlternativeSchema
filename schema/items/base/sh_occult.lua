@@ -1,0 +1,5 @@
+ITEM.name = "Occult Base"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = "A Occult for ...."
+ITEM.category = "Occult"
+ITEM.occult = "none"

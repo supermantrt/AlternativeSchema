@@ -1,0 +1,5 @@
+ITEM.name = "Ingredients Base"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = "An ingredients for ingredienting."
+ITEM.category = "Crafting"
+ITEM.ingredients = "none"

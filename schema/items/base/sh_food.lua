@@ -1,0 +1,5 @@
+ITEM.name = "Cooked Food Base"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = "A Food for eating."
+ITEM.category = "Cooked Food"
+ITEM.food = "none"

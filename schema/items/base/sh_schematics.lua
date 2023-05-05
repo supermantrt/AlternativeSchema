@@ -1,0 +1,5 @@
+ITEM.name = "Schematics Base"
+ITEM.model = "models/props_lab/clipboard.mdl"
+ITEM.description = "A schematics for schematicing."
+ITEM.category = "schematics"
+ITEM.schematics = "none"
